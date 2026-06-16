@@ -1,0 +1,5 @@
+rubrica examen {
+    criterio teoria peso 40 { nivel "bueno" 7; };
+    criterio practica peso 50 { nivel "bueno" 7; };
+}
+// suma = 90, debería ser 100

@@ -1,0 +1,5 @@
+rubrica examen {
+    criterio teoria peso 40   // falta la llave '{'
+        nivel "excelente" 10;
+    };
+};

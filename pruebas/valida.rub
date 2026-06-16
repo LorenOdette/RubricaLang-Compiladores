@@ -1,0 +1,17 @@
+// Programa válido: suma de pesos 100, todos >0, niveles presentes
+numero x = 10;
+cadena nombre = "Rubrica Final";
+
+rubrica examen_final {
+    criterio teoria peso 40 {
+        nivel "excelente" 10;
+        nivel "bueno" 7;
+        nivel "regular" 4;
+    };
+    criterio practica peso 60 {
+        nivel "excelente" 10;
+        nivel "bueno" 7;
+    };
+}
+
+x = x + 5;
